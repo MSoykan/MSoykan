@@ -11,7 +11,7 @@
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://unity.com/profiles/unity3d/themes/unity/images/company/brand/logo-unity.svg" />
+<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/U/unity-logo-988A22E703-seeklogo.com.png" />
 <br />
 
 #
