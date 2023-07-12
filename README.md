@@ -1,4 +1,4 @@
-🔭 New grad CSE student from Marmara Unviersity
+🔭 Senior CSE student from Marmara Unviersity
 
 🌱 I’m currently learning to develop games using Unity.
 
