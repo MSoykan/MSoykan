@@ -2,7 +2,7 @@
 
 🌱 I’m currently learning to develop games using Unity.
 
-Linkedin: https://www.linkedin.com/in/mehmetsoykanmutlu/
+ <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg](https://static.vecteezy.com/system/resources/previews/018/930/587/original/linkedin-logo-linkedin-icon-transparent-free-png.png)"/> Linkedin: https://www.linkedin.com/in/mehmetsoykanmutlu/
 
 ### 🧰 Languages and Tools
 
