@@ -2,6 +2,7 @@
 
 🌱 I’m currently learning to develop games using Unity.
 
+Linkedin: https://www.linkedin.com/in/mehmetsoykanmutlu/
 
 ### 🧰 Languages and Tools
 
