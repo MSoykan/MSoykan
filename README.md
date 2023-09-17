@@ -1,6 +1,6 @@
 🔭 Senior CSE student from Marmara Unviersity
 
-🌱 I’m currently learning to develop games using Unity.
+🌱 I’m currently learning .NET for backend & Unity for game development.
 
  
 ### Contact Me:   <br />
