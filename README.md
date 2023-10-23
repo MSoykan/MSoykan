@@ -1,6 +1,6 @@
 🔭 Senior CSE student from Marmara Unviersity
 
-🌱 I’m interested in .NET & Unity.
+🌱 Very much interested in .NET Core for web & Unity for game development.
 
  
 ### Contact Me:   <br />
