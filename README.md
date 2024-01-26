@@ -1,4 +1,4 @@
-🔭 Senior CSE student from Marmara Unviersity
+🔭 New Grad from Marmara Unviersity
 
 🌱 Very much interested in .NET Core for backend & Unity for game development.
 
