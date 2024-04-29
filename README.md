@@ -8,6 +8,8 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="msoykan" width="30" style="max-width: 100%;">
 </a>
 
+[![LeetCode](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg)](https://leetcode.com/u/MSoykann/)
+
 ### 🧰 Languages and Tools
 
 
