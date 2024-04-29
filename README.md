@@ -9,7 +9,7 @@
 </a>
 
 <a href="https://leetcode.com/u/MSoykann/" rel="nofollow">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="MSoykann" width="30" style="max-width: 100%;">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="MSoykann" width="30" style="max-width: 100%;">
 </a>
 
 
