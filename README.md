@@ -8,7 +8,10 @@
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="msoykan" width="30" style="max-width: 100%;">
 </a>
 
-[![LeetCode](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg){: width="30" style="max-width: 100%;"}](https://leetcode.com/u/MSoykann/)
+<a href="https://leetcode.com/u/MSoykann/" rel="nofollow">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="MSoykann" width="30" style="max-width: 100%;">
+</a>
+
 
 ### 🧰 Languages and Tools
 
