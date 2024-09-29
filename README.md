@@ -1,6 +1,6 @@
 🔭 New Grad from Marmara Unviersity
 
-🌱 Very much interested in .NET Core for backend & Unity for game development.
+🌱 Interested in .NET Core for backend & Unity for game development.
 
  
 ### Contact Me:   <br />
