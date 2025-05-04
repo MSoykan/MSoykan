@@ -4,7 +4,7 @@
 
  
 ### Contact Me:   <br />
-<a href="https://www.linkedin.com/in/mehmetsoykanmutlu/" rel="nofollow">
+<a href="https://www.linkedin.com/in/soykanmutlu/" rel="nofollow">
   <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" alt="msoykan" width="30" style="max-width: 100%;">
 </a>
 
